@@ -38,16 +38,6 @@ Thumbs.db
 desktop.ini
 *.log
 
-# 內部規格／交件 checklist（不公開）
-AGENTS.md
-TASKS.md
-KPI.md
-BENCHMARK.md
-CI_GATES.md
-HANDOFF.md
-**/PRD.md
-**/PUBLISH_CHECKLIST.md
-
 # 環境檔
 .env
 .env.*
