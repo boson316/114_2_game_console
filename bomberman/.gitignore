@@ -1,0 +1,42 @@
+# Build
+/build/
+*.exe
+*.obj
+*.a
+*.lib
+*.pdb
+
+# Local save / profile
+/save/
+*.save
+
+# IDE
+.vs/
+.vscode/
+*.user
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Fonts (large; run scripts/fetch_ui_font.py after clone)
+/assets/fonts/*.ttf
+
+# Env / secrets
+.env
+.env.*
+
+# Internal-only (do not add to public repo)
+AGENTS.md
+TASKS.md
+KPI.md
+BENCHMARK.md
+CI_GATES.md
+HANDOFF.md
+PRD.md
+PUBLISH_CHECKLIST.md

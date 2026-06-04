@@ -1,0 +1,5 @@
+Taipei Sans TC — SIL Open Font License 1.1
+Copyright (c) JT Foundry / Adobe Source Han Sans contributors.
+See: https://sites.google.com/view/jtfoundry/zh-tw/downloads
+
+Bundled file: TaipeiSansTCBeta-Regular.ttf (fetch via scripts/fetch_ui_font.py)

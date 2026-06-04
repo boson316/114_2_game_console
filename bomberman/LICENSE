@@ -1,0 +1,36 @@
+Educational Use Only — C++ Course Final Project
+僅供課程／學術用途
+
+Copyright (c) 2026
+
+本儲存庫為程式設計（C++）期末專題作業展示之用。
+
+允許：
+- 課程教師、助教、同學為評分、示範、學習而檢視、建置、執行本專案
+- 在註明出處與本授權條款的前提下，於課程相關報告或簡報中引用片段
+
+不允許（未經著作人書面同意）：
+- 商業利用、再授權販售
+- 移除或變更本授權聲明後另行散布
+- 暗示與遊戲天堂／爆爆王（Crazy Arcade）官方有任何關聯
+
+第三方素材（字型、腳本生成圖等）另依 `assets/CREDITS.md` 與各目錄授權檔。
+
+本軟體依現狀提供，不提供任何明示或默示保證。
+
+---
+
+English summary
+
+This repository is for a university/college C++ programming final project demo.
+
+Permitted: course staff and peers may view, build, and run for grading,
+demonstration, and learning; short excerpts in course reports with attribution.
+
+Not permitted without written permission: commercial use, sublicensing for sale,
+redistribution after removing this notice, or implying affiliation with official
+Crazy Arcade / 爆爆王 IP.
+
+Third-party assets are under their own licenses (see `assets/CREDITS.md`).
+
+Provided "as is" without warranty.

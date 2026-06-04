@@ -1,0 +1,53 @@
+# ==========================================
+# Chess War - Git Ignore Configuration
+# ==========================================
+
+# CMake 建置輸出目錄
+chess_war/build/
+bomberman/build/
+**/build/
+bomberman/save/
+*.save
+**/assets/fonts/*.ttf
+**/out/
+**/bin/
+
+# Visual Studio & VS Code 暫存檔與設定
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# 編譯產物與二進位檔案
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.obj
+*.o
+*.pdb
+*.ilk
+
+# 系統與環境暫存檔
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+
+# 內部規格／交件 checklist（不公開）
+AGENTS.md
+TASKS.md
+KPI.md
+BENCHMARK.md
+CI_GATES.md
+HANDOFF.md
+**/PRD.md
+**/PUBLISH_CHECKLIST.md
+
+# 環境檔
+.env
+.env.*
