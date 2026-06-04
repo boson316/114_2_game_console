@@ -1,7 +1,5 @@
 # 114-2 Game Console (Chess War + Bomberman)
 
-**Languages:** [English](README.md) · [中文](README.zh-TW.md)
-
 Combined C++ final project: one **Raylib launcher** lets you pick **Chess War** (Western chess + cards) or **Bomberman** (grid bomber, BFS AI).
 
 ## Layout
